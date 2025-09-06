@@ -380,12 +380,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "179f2590db21186af94376014d8d8ea361260278",
     "author": "Oliver",
     "commit": {
       "date": "2025-09-06T18:04:28.000Z",
       "message": "feat(tenis) :test Jugador A 3  punto y Jugador B  marca 3  punto marcador: 3-3",
-      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/179f2590db21186af94376014d8d8ea361260278"
     },
     "stats": {
       "total": 10,
@@ -397,5 +397,24 @@
     "test_count": 10,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Oliver",
+    "commit": {
+      "date": "2025-09-06T18:09:18.000Z",
+      "message": "feat(tenis) : deuce  marcador: 3-3",
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

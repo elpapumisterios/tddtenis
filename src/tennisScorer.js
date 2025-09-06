@@ -27,6 +27,9 @@
     if(this.judadorA===3 && this.judadorB===2){
       return "40 - 30";
     }   
+    if(this.judadorA===3 && this.judadorB===3){
+      return "deuce";
+    } 
 
 }     
   playerA(){
