@@ -52,3 +52,13 @@ test("Marcador 40 - 30",()=>{
     tennisScorer.playerB();
     expect(tennisScorer.obtenerPuntuacion()).toBe("40 - 30");
 });
+test("Marcador 40 - 40",()=>{
+    const tennisScorer = new TennisScorer();
+    tennisScorer.playerA(); 
+    tennisScorer.playerA();
+    tennisScorer.playerA();
+    tennisScorer.playerB(); 
+    tennisScorer.playerB();
+    tennisScorer.playerB();
+    expect(tennisScorer.obtenerPuntuacion()).toBe("deuce");
+});
