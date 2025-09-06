@@ -15,7 +15,8 @@
     if(this.judadorA===2 && this.judadorB===0){
       return "30 - love";
     } 
-   
+    
+  
 
 }     
   playerA(){
