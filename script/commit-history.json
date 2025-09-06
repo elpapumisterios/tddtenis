@@ -133,12 +133,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a63effd9a4fd76e7a902b8d73ad945eec4e0c665",
     "author": "Oliver",
     "commit": {
       "date": "2025-09-06T17:15:20.000Z",
       "message": "feat: marcador inicial test love-love",
-      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/a63effd9a4fd76e7a902b8d73ad945eec4e0c665"
     },
     "stats": {
       "total": 72,
@@ -148,6 +148,25 @@
     },
     "coverage": 75,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Oliver",
+    "commit": {
+      "date": "2025-09-06T17:20:07.000Z",
+      "message": "feat: test Jugador A marca 1 punto 15-0",
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-06"
+    },
+    "coverage": 90,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
