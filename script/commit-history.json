@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "049a08e8a46dd4d55add5bf32ebbb00f0413c926",
     "author": "Oliver",
     "commit": {
       "date": "2025-09-06T15:23:03.000Z",
       "message": "init test",
-      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/HEAD"
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/049a08e8a46dd4d55add5bf32ebbb00f0413c926"
     },
     "stats": {
       "total": 4,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Oliver",
+    "commit": {
+      "date": "2025-09-06T17:15:20.000Z",
+      "message": "feat: marcador inicial test love-love",
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 72,
+      "additions": 26,
+      "deletions": 46,
+      "date": "2025-09-06"
+    },
+    "coverage": 75,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
