@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7655cb300aa26b2c85798bda2dc24aa7c3bfeeba",
     "author": "Oliver",
     "commit": {
       "date": "2025-09-06T17:27:07.000Z",
       "message": "feat(tenis): test Jugador A marca 2  puntos 30-0",
-      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/7655cb300aa26b2c85798bda2dc24aa7c3bfeeba"
     },
     "stats": {
       "total": 6,
@@ -188,5 +188,24 @@
     "test_count": 4,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Oliver",
+    "commit": {
+      "date": "2025-09-06T17:28:14.000Z",
+      "message": "feat(tenis): Jugador A marca 2  puntos 30-0",
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 3,
+      "deletions": 0,
+      "date": "2025-09-06"
+    },
+    "coverage": 91.67,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
