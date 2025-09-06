@@ -30,6 +30,9 @@
     if(this.judadorA===3 && this.judadorB===3){
       return "deuce";
     } 
+    if(this.judadorA===4 && this.judadorB===3){
+      return "advantage player A";
+    } 
 
 }     
   playerA(){

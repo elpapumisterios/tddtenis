@@ -72,5 +72,5 @@ test("Jugador anota A anota 1 punto de ventaja",()=>{
 
     tennisScorer.playerB();
     tennisScorer.playerA(); 
-    expect(tennisScorer.obtenerPuntuacion()).toBe("deuce");
+    expect(tennisScorer.obtenerPuntuacion()).toBe("advantage player A");
 });
