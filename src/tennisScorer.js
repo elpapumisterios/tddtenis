@@ -33,6 +33,9 @@
     if(this.judadorA===4 && this.judadorB===3){
       return "advantage player A";
     } 
+    if(this.judadorA===5 && this.judadorB===3){  
+      return "player A ganador";
+    }
 
 }     
   playerA(){
@@ -41,7 +44,8 @@
   playerB(){
     this.judadorB++;
   } 
-
+  
 } 
+
 module.exports = TennisScorer;
 

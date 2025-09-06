@@ -456,12 +456,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "73ff622529086adf64696316d51461a10cf3b439",
     "author": "Oliver",
     "commit": {
       "date": "2025-09-06T18:14:52.000Z",
       "message": "feat(tenis) : test gana Jugador A",
-      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/73ff622529086adf64696316d51461a10cf3b439"
     },
     "stats": {
       "total": 14,
@@ -473,5 +473,24 @@
     "test_count": 11,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Oliver",
+    "commit": {
+      "date": "2025-09-06T18:26:34.000Z",
+      "message": "feat(tenis) : test gana Jugador A",
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 13,
+      "deletions": 7,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]

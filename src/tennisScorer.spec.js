@@ -73,8 +73,11 @@ test("Jugador anota A anota 1 punto de ventaja",()=>{
     tennisScorer.playerB();
     tennisScorer.playerA(); 
     expect(tennisScorer.obtenerPuntuacion()).toBe("advantage player A");
-    test(
-    "Jugador anota A anota 1 punto de ventaja",()=>{
+
+
+});
+ 
+test("Jugador A ANOTA SIGUIENTE JUGADOR A ganador",()=>{
         const tennisScorer = new TennisScorer();
         tennisScorer.playerA(); 
         tennisScorer.playerA(); 
@@ -84,7 +87,6 @@ test("Jugador anota A anota 1 punto de ventaja",()=>{
         tennisScorer.playerB(); 
         tennisScorer.playerA();
         tennisScorer.playerA();
-        expect(tennisScorer.obtenerPuntuacion()).toBe("advantage player A");
-    }   
-    )
-});
+        expect(tennisScorer.obtenerPuntuacion()).toBe("player A ganador");
+
+    });
