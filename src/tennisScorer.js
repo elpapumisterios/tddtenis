@@ -15,6 +15,9 @@
     if(this.judadorA===2 && this.judadorB===0){
       return "30 - love";
     } 
+    if(this.judadorA===3 && this.judadorB===1){
+      return "30 - 15";
+    }
     
   
 
