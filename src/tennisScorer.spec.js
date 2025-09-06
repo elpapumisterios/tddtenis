@@ -62,3 +62,15 @@ test("Marcador 40 - 40",()=>{
     tennisScorer.playerB();
     expect(tennisScorer.obtenerPuntuacion()).toBe("deuce");
 });
+test("Jugador anota A anota 1 punto de ventaja",()=>{
+    const tennisScorer = new TennisScorer();
+    tennisScorer.playerA(); 
+    tennisScorer.playerA(); 
+    tennisScorer.playerA();
+    tennisScorer.playerB(); 
+    tennisScorer.playerB();
+
+    tennisScorer.playerB();
+    tennisScorer.playerA(); 
+    expect(tennisScorer.obtenerPuntuacion()).toBe("deuce");
+});

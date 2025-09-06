@@ -399,12 +399,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "f14d2bf85ac2b3da96d0993f77d9cbfd652b3ac7",
     "author": "Oliver",
     "commit": {
       "date": "2025-09-06T18:09:18.000Z",
       "message": "feat(tenis) : deuce  marcador: 3-3",
-      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/f14d2bf85ac2b3da96d0993f77d9cbfd652b3ac7"
     },
     "stats": {
       "total": 3,
@@ -416,5 +416,24 @@
     "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Oliver",
+    "commit": {
+      "date": "2025-09-06T18:12:00.000Z",
+      "message": "feat(tenis) : Jugador A anota 1 para la ventaja  marcador: 3-3",
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 12,
+      "deletions": 0,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 11,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
