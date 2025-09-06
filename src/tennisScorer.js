@@ -21,7 +21,9 @@
     if(this.judadorA===1 && this.judadorB===1){
       return "15 - 15";
     } 
-    
+    if(this.judadorA===1 && this.judadorB===2){
+      return "15 - 30";
+    } 
 
 }     
   playerA(){
