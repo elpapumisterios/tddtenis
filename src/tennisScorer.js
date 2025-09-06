@@ -22,7 +22,6 @@
       return "15 - 15";
     } 
     
-  
 
 }     
   playerA(){

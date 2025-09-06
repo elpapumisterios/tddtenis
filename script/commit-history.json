@@ -285,17 +285,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d44257a56728c7f52930c2ddb6be43adef2448b7",
     "author": "Oliver",
     "commit": {
       "date": "2025-09-06T17:51:03.000Z",
       "message": "feat(tenis)test :Jugador A 1 punto y Jugador B  marca 2  punto marcador: 1-2",
-      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/d44257a56728c7f52930c2ddb6be43adef2448b7"
     },
     "stats": {
       "total": 7,
       "additions": 7,
       "deletions": 0,
+      "date": "2025-09-06"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Oliver",
+    "commit": {
+      "date": "2025-09-06T17:54:53.000Z",
+      "message": "feat(tenis)test :Jugador A 1 punto y Jugador B  marca 2  punto marcador: 1-2",
+      "url": "https://github.com/elpapumisterios/tddtenis/commit/HEAD"
+    },
+    "stats": {
+      "total": 3,
+      "additions": 1,
+      "deletions": 2,
       "date": "2025-09-06"
     },
     "coverage": 100,
