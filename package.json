@@ -29,6 +29,7 @@
     "parcel": "^2.12.0"
   },
   "dependencies": {
-    "parcel-jest-base": "file:"
+    "parcel-jest-base": "file:",
+    "jest": "^30.1.3"
   }
 }
